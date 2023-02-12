@@ -20,6 +20,7 @@ brew tap zkondor/dist
 
 ``` sh
 brew install --cask znotch
+brew install --cask notunez
 ```
 
 ## Update
@@ -36,5 +37,6 @@ If `brew` indicates there is a new version of `znotch`, then run:
 
 ``` sh
 brew cask upgrade znotch
+brew cask upgrade notunez
 ```
 
