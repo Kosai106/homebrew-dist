@@ -1,8 +1,8 @@
 cask "notunez" do
-  version "3.3"
-  sha256 "ac3b605c498a4625f3a29b1db0be22b45f40100ee8502988faf15e730016f492" 
+  version "3.4"
+  sha256 "71a45807fd14d57a0357788ce697e70641991866ec98d69860e9d08c11789023"
 
-  url "https://github.com/zkondor/noTunez/releases/download/v3.3/noTunez-3.3.zip"
+  url "https://github.com/zkondor/noTunez/releases/download/v3.4/noTunez_3.4.zip"
   name "noTunez"
   desc "Simple application that will prevent iTunes or Apple Music from launching"
   homepage "https://github.com/zkondor/noTunez"
