@@ -1,8 +1,8 @@
 cask "znotch" do
   version "1.0.0"
-  sha256 "2392edc098f3aa41a3d467005679792a9856da4cb02c4c194d074ffe39fc17d0"
+  sha256 "4a0ad10b8a43ecfe1b8b077ea9e263c95b4a96a560b6900e32254be000b62043"
 
-  url "https://github.com/zkondor/znotch/releases/download/v1.0.0/znotch-1.0.0.dmg"
+  url "https://github.com/zkondor/znotch/releases/download/untagged-03c42ed707380f08fc4f/znotch-1.0.1.dmg"
   name "zNotch"
   desc "A tool to toggle Macbook's infamous notch in one click with automation support"
   homepage "https://github.com/zkondor/znotch"
