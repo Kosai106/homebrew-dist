@@ -36,7 +36,7 @@ brew update
 If `brew` indicates there is a new version of `znotch`, then run:
 
 ``` sh
-brew cask upgrade znotch
-brew cask upgrade notunez
+brew upgrade --cask znotch
+brew upgrade --cask notunez
 ```
 
